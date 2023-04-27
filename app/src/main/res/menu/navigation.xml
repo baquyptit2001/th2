@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Danh sach"
+        android:id="@+id/danhsach"
+        android:icon="@drawable/list"
+
+    />
+    <item android:title="Thong tin"
+        android:id="@+id/thongtin"
+        android:icon="@drawable/infor"
+    />
+    <item android:title="Tim kiem"
+        android:id="@+id/timkiem"
+        android:icon="@drawable/search"
+    />
+</menu>
